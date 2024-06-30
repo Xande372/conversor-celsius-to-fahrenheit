@@ -32,7 +32,7 @@ public class Calculadora {
             result = num1 / num2;
             break;
          default:
-            System.out.println("Operação inválida.");
+            System.out.println("Operação inválida! Tente novamente.");
             return;
       }
 
